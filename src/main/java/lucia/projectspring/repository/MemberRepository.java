@@ -1,5 +1,6 @@
 package lucia.projectspring.repository;
 
+import java.util.List;
 import lucia.projectspring.domain.Member;
 
 import java.util.Optional;
